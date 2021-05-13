@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZRELOLERZ
 - 👀 I’m interested in cycling, F1, cricket and programming.
-- 🌱 I’m currently learning Reactjs and GraphQl.
-- 💞️ I’m looking to collaborate on nothinh currently.
+- 🌱 I’m currently learning Reactjs and GraphQL.
+- 💞️ I’m looking to collaborate on nothing currently.
