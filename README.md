@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ZRELOLERZ
 - 👀 I’m interested in cycling, F1, cricket and programming.
 - 🌱 I’m currently learning Flutter, Reactjs, React Native and GraphQL.
-- 💞️ I’m looking to collaborate on nothing currently.
